@@ -1,0 +1,63 @@
+about:
+  description: 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
+  license: MIT
+  homepage: https://termscp.rs
+  head: e966a83
+  archived: false
+  latestVersion: v1.1.1
+  collectedAt: 2026-09-02T03:01:33Z
+timeline:
+  created: 2020-11-07
+  lastCommit: 2026-09-01
+  lastRelease: 2026-06-08
+popularity:
+  star: 3063
+  watcher: 14
+  fork: 81
+  release: 42
+  contributor: 22
+  pullRequest: 12
+  issue: 254
+language:
+  Rust: 1452580
+  Astro: 27757
+  Shell: 14361
+  Just: 6043
+  PowerShell: 5682
+  CSS: 2463
+  JavaScript: 1549
+  TypeScript: 493
+totalLine: 1510928
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 9
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 4
+    openIssue: 3
+    commit: 60
+  last180d:
+    since: 2026-03-06
+    release: 3
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 21
+    openIssue: 3
+    commit: 134
+  last360d:
+    since: 2025-09-07
+    release: 5
+    mergedPR: 37
+    openPR: 0
+    closedIssue: 38
+    openIssue: 4
+    commit: 170
