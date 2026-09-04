@@ -7,7 +7,7 @@ about:
   head: 74c91c7
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T19:19:47Z
+  collectedAt: 2026-09-04T21:14:07Z
 timeline:
   created: 2020-11-07
   lastCommit: 2026-09-03
@@ -87,6 +87,74 @@ total:
   openIssue: 2
   commit: 1469
 ---
+path: /home/runner/.x-repo/github.com/veeso/termscp
+collectedAt: 2026-09-04T21:14:09Z
+loc:
+  Rust:
+    code: 35467
+    comments: 1516
+    blanks: 3194
+    files: 178
+  Json:
+    code: 7978
+    comments: 0
+    blanks: 0
+    files: 5
+  JavaScript:
+    code: 5125
+    comments: 49
+    blanks: 326
+    files: 10
+  Sh:
+    code: 623
+    comments: 67
+    blanks: 108
+    files: 5
+  Toml:
+    code: 583
+    comments: 22
+    blanks: 34
+    files: 19
+  PowerShell:
+    code: 138
+    comments: 35
+    blanks: 33
+    files: 2
+  Css:
+    code: 93
+    comments: 5
+    blanks: 7
+    files: 1
+  Handlebars:
+    code: 22
+    comments: 0
+    blanks: 4
+    files: 2
+  TypeScript:
+    code: 14
+    comments: 1
+    blanks: 2
+    files: 2
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 3047
+    blanks: 1152
+    files: 51
+  Text:
+    code: 0
+    comments: 32
+    blanks: 3
+    files: 2
+total:
+  code: 50060
+  comments: 6301
+  blanks: 5062
+  files: 279
 ---
 date: "2026-08-24"
 repo:
