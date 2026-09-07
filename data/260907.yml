@@ -5,15 +5,15 @@ about:
   head: 74c91c7
   archived: false
   latestVersion: "v1.2.0"
-  collectedAt: 2026-09-07T05:15:10Z
+  collectedAt: 2026-09-07T19:10:50Z
 timeline:
   created: 2020-11-07
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 3070
+  star: 3069
   watcher: 14
-  fork: 81
+  fork: 80
   release: 43
   contributor: 22
   pullRequest: 181
@@ -86,7 +86,7 @@ total:
   commit: 1469
 ---
 path: /home/runner/.x-repo/github.com/veeso/termscp
-collectedAt: 2026-09-07T05:15:12Z
+collectedAt: 2026-09-07T19:10:53Z
 loc:
   Rust:
     code: 35467
@@ -261,7 +261,7 @@ checks:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:15:13+00:00
+  collectedAt: 2026-09-07T19:10:53+00:00
   platform:
     darwin/arm64:
       name:  termscp-v1.2.0-aarch64-apple-darwin.tar.gz
