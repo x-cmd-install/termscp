@@ -5,13 +5,13 @@ about:
   head: 74c91c7
   archived: false
   latestVersion: "v1.2.0"
-  collectedAt: 2026-09-08T02:38:21Z
+  collectedAt: 2026-09-08T05:21:09Z
 timeline:
   created: 2020-11-07
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 3069
+  star: 3071
   watcher: 14
   fork: 80
   release: 43
@@ -86,7 +86,7 @@ total:
   commit: 1469
 ---
 path: /home/runner/.x-repo/github.com/veeso/termscp
-collectedAt: 2026-09-08T02:38:23Z
+collectedAt: 2026-09-08T05:21:12Z
 loc:
   Rust:
     code: 35467
