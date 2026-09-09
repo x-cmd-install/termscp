@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:29:24Z
+  collectedAt: 2026-09-09T19:39:31Z
 timeline:
   created: 2020-11-07
   lastCommit: 2026-09-03
@@ -40,7 +40,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 16
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 1
@@ -48,7 +48,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 1
-    commit: 17
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 1
@@ -56,7 +56,7 @@ recent:
     openPR: 0
     closedIssue: 5
     openIssue: 1
-    commit: 18
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 4
@@ -64,7 +64,7 @@ recent:
     openPR: 0
     closedIssue: 20
     openIssue: 1
-    commit: 139
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 6
@@ -72,7 +72,7 @@ recent:
     openPR: 0
     closedIssue: 40
     openIssue: 2
-    commit: 176
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 11
@@ -90,7 +90,7 @@ total:
   commit: 1469
 ---
 path: /home/runner/.x-repo/github.com/veeso/termscp
-collectedAt: 2026-09-09T05:29:27Z
+collectedAt: 2026-09-09T19:39:39Z
 loc:
   Rust:
     code: 35467
