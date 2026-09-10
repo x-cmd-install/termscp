@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:29:32Z
+  collectedAt: 2026-09-10T22:30:41Z
 timeline:
   created: 2020-11-07
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 3075
+  star: 3076
   watcher: 14
   fork: 80
   release: 43
@@ -90,7 +90,7 @@ total:
   commit: 1469
 ---
 path: /home/runner/.x-repo/github.com/veeso/termscp
-collectedAt: 2026-09-10T21:29:34Z
+collectedAt: 2026-09-10T22:30:44Z
 loc:
   Rust:
     code: 35467
