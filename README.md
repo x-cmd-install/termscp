@@ -14,11 +14,11 @@ x install termscp
 
 ## Code insight
 
-Total: **50,045** lines of code across **217** files in the top 5 languages.
+Total: **50,469** lines of code across **218** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,467 | 1,516 | 3,194 | 178 |
+| Rust | 35,891 | 1,510 | 3,296 | 179 |
 | Json | 7,978 | 0 | 0 | 5 |
 | JavaScript | 5,125 | 49 | 326 | 10 |
 | Sh | 623 | 67 | 108 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-09-03)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-09-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,081 · **Forks**: 81 · **Open issues**: 254 · **Contributors**: 22
+- **Stars**: 3,084 · **Forks**: 82 · **Open issues**: 254 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 169 · **Open PRs**: 0 · **Closed issues**: 252 · **Open issues**: 2 · **Commits**: 1469
+- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 252 · **Open issues**: 2 · **Commits**: 1470
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 7 | 0 | 1 | 0 | 16 |
-| last60d | 2026-07-18 | 1 | 7 | 0 | 3 | 1 | 17 |
-| 90d | 2026-06-18 | 1 | 8 | 0 | 5 | 1 | 17 |
-| last180d | 2026-03-20 | 4 | 23 | 0 | 18 | 1 | 104 |
-| 360d | 2025-09-21 | 6 | 41 | 0 | 38 | 2 | 174 |
-| last720d | 2024-09-26 | 11 | 60 | 0 | 97 | 2 | 247 |
+| 30d | 2026-08-18 | 1 | 8 | 0 | 1 | 0 | 17 |
+| last60d | 2026-07-19 | 1 | 8 | 0 | 3 | 1 | 18 |
+| 90d | 2026-06-19 | 1 | 8 | 0 | 5 | 1 | 18 |
+| last180d | 2026-03-21 | 4 | 19 | 0 | 18 | 1 | 105 |
+| 360d | 2025-09-22 | 6 | 42 | 0 | 38 | 2 | 175 |
+| last720d | 2024-09-27 | 11 | 61 | 0 | 96 | 2 | 248 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:41:31Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:56:49Z._
