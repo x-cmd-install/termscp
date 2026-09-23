@@ -4,7 +4,7 @@
 
 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 
-[![x-cmd/install — termscp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/termscp.svg?lang=zh)](https://x-cmd.com/install/termscp)
+[![x-cmd/install — termscp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/termscp.svg?lang=zh)](https://x-cmd.com/install/termscp)
 
 ## 安装
 
@@ -30,9 +30,9 @@ x install termscp
 
 评分最低的几项:
 
-- **Security-Policy** (4/10) — security policy file detected
-- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Security-Policy** (4/10) — security policy file detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install termscp
 
 ## 流行度
 
-- **Star**: 3,097 · **Fork**: 82 · **开放 issue**: 254 · **贡献者**: 22
+- **Star**: 3,101 · **Fork**: 82 · **开放 issue**: 254 · **贡献者**: 22
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install termscp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 0 | 0 | 0 | 17 |
-| last60d | 2026-07-24 | 1 | 8 | 0 | 3 | 1 | 18 |
-| 90d | 2026-06-24 | 1 | 8 | 0 | 4 | 1 | 18 |
-| last180d | 2026-03-26 | 4 | 19 | 0 | 17 | 1 | 104 |
-| 360d | 2025-09-27 | 6 | 42 | 0 | 38 | 2 | 175 |
-| last720d | 2024-10-02 | 11 | 59 | 0 | 96 | 2 | 246 |
+| 30d | 2026-08-24 | 1 | 8 | 0 | 0 | 0 | 17 |
+| last60d | 2026-07-25 | 1 | 8 | 0 | 3 | 1 | 18 |
+| 90d | 2026-06-25 | 1 | 8 | 0 | 4 | 1 | 18 |
+| last180d | 2026-03-27 | 4 | 19 | 0 | 17 | 1 | 104 |
+| 360d | 2025-09-28 | 6 | 42 | 0 | 38 | 2 | 175 |
+| last720d | 2024-10-03 | 11 | 55 | 0 | 93 | 2 | 238 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:47:56Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:41:37Z._
