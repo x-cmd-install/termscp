@@ -30,9 +30,9 @@ x install termscp
 
 评分最低的几项:
 
+- **Security-Policy** (4/10) — security policy file detected
 - **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Security-Policy** (4/10) — security policy file detected
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install termscp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 6 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-31 | 1 | 8 | 0 | 3 | 1 | 17 |
-| 90d | 2026-07-01 | 1 | 8 | 0 | 3 | 1 | 18 |
-| last180d | 2026-04-02 | 4 | 19 | 0 | 15 | 1 | 104 |
-| 360d | 2025-10-04 | 6 | 39 | 0 | 38 | 2 | 173 |
-| last720d | 2024-10-09 | 10 | 52 | 0 | 88 | 3 | 224 |
+| 30d | 2026-08-31 | 1 | 6 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-01 | 1 | 8 | 0 | 3 | 1 | 17 |
+| 90d | 2026-07-02 | 1 | 8 | 0 | 3 | 1 | 18 |
+| last180d | 2026-04-03 | 4 | 19 | 0 | 14 | 1 | 104 |
+| 360d | 2025-10-05 | 6 | 39 | 0 | 38 | 2 | 173 |
+| last720d | 2024-10-10 | 10 | 52 | 0 | 88 | 3 | 224 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:19:51Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:12:34Z._
