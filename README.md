@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,110 · **Forks**: 83 · **Open issues**: 254 · **Contributors**: 22
+- **Stars**: 3,111 · **Forks**: 83 · **Open issues**: 256 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 251 · **Open issues**: 3 · **Commits**: 1470
+- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 251 · **Open issues**: 5 · **Commits**: 1470
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 4 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-03 | 1 | 8 | 0 | 3 | 1 | 17 |
-| 90d | 2026-07-04 | 1 | 8 | 0 | 3 | 1 | 18 |
-| last180d | 2026-04-05 | 4 | 19 | 0 | 14 | 1 | 104 |
-| 360d | 2025-10-07 | 6 | 39 | 0 | 38 | 2 | 173 |
-| last720d | 2024-10-12 | 10 | 52 | 0 | 86 | 3 | 224 |
+| 30d | 2026-09-03 | 1 | 1 | 0 | 0 | 2 | 1 |
+| last60d | 2026-08-04 | 1 | 8 | 0 | 3 | 3 | 17 |
+| 90d | 2026-07-05 | 1 | 8 | 0 | 3 | 3 | 18 |
+| last180d | 2026-04-06 | 4 | 19 | 0 | 14 | 3 | 104 |
+| 360d | 2025-10-08 | 6 | 39 | 0 | 38 | 4 | 173 |
+| last720d | 2024-10-13 | 10 | 52 | 0 | 86 | 5 | 224 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:08:13Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:53:51Z._
