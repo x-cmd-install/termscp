@@ -30,9 +30,9 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
+- **Security-Policy** (4/10) — security policy file detected
 - **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Security-Policy** (4/10) — security policy file detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,123 · **Forks**: 84 · **Open issues**: 257 · **Contributors**: 22
+- **Stars**: 3,124 · **Forks**: 84 · **Open issues**: 257 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 1 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-15 | 1 | 8 | 0 | 1 | 3 | 17 |
-| 90d | 2026-07-16 | 1 | 8 | 0 | 3 | 4 | 18 |
-| last180d | 2026-04-17 | 4 | 19 | 0 | 12 | 4 | 98 |
-| 360d | 2025-10-19 | 6 | 39 | 0 | 38 | 5 | 173 |
-| last720d | 2024-10-24 | 9 | 48 | 0 | 81 | 6 | 216 |
+| 30d | 2026-09-15 | 0 | 1 | 0 | 0 | 3 | 0 |
+| last60d | 2026-08-16 | 1 | 8 | 0 | 1 | 3 | 17 |
+| 90d | 2026-07-17 | 1 | 8 | 0 | 3 | 4 | 18 |
+| last180d | 2026-04-18 | 4 | 17 | 0 | 11 | 4 | 98 |
+| 360d | 2025-10-20 | 6 | 39 | 0 | 38 | 5 | 173 |
+| last720d | 2024-10-25 | 9 | 48 | 0 | 81 | 6 | 216 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:27:15Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:18:11Z._
