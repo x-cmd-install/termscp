@@ -14,7 +14,7 @@ x install termscp
 
 ## Code insight
 
-Total: **50,469** lines of code across **218** files in the top 5 languages.
+Total: **50,467** lines of code across **218** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **50,469** lines of code across **218** files in the top 5 languages.
 | Json | 7,978 | 0 | 0 | 5 |
 | JavaScript | 5,125 | 49 | 326 | 10 |
 | Sh | 623 | 67 | 108 | 5 |
-| Toml | 583 | 22 | 34 | 19 |
+| Toml | 581 | 18 | 34 | 19 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-09-03)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-10-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,124 · **Forks**: 84 · **Open issues**: 257 · **Contributors**: 22
+- **Stars**: 3,126 · **Forks**: 84 · **Open issues**: 257 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 251 · **Open issues**: 6 · **Commits**: 1470
+- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 251 · **Open issues**: 6 · **Commits**: 1471
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 1 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-16 | 1 | 8 | 0 | 1 | 3 | 17 |
-| 90d | 2026-07-17 | 1 | 8 | 0 | 3 | 4 | 18 |
-| last180d | 2026-04-18 | 4 | 17 | 0 | 11 | 4 | 98 |
-| 360d | 2025-10-20 | 6 | 39 | 0 | 38 | 5 | 173 |
-| last720d | 2024-10-25 | 9 | 48 | 0 | 81 | 6 | 216 |
+| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 3 | 1 |
+| last60d | 2026-08-17 | 1 | 8 | 0 | 1 | 3 | 18 |
+| 90d | 2026-07-18 | 1 | 8 | 0 | 3 | 4 | 19 |
+| last180d | 2026-04-19 | 3 | 17 | 0 | 11 | 4 | 99 |
+| 360d | 2025-10-21 | 6 | 39 | 0 | 38 | 5 | 174 |
+| last720d | 2024-10-26 | 9 | 48 | 0 | 81 | 6 | 217 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:18:11Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:16:11Z._
