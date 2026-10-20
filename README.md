@@ -14,15 +14,15 @@ x install termscp
 
 ## Code insight
 
-Total: **50,467** lines of code across **218** files in the top 5 languages.
+Total: **50,822** lines of code across **218** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,891 | 1,510 | 3,296 | 179 |
+| Rust | 36,249 | 1,518 | 3,335 | 179 |
 | Json | 7,978 | 0 | 0 | 5 |
 | JavaScript | 5,125 | 49 | 326 | 10 |
 | Sh | 623 | 67 | 108 | 5 |
-| Toml | 581 | 18 | 34 | 19 |
+| Toml | 578 | 14 | 34 | 19 |
 
 ## OpenSSF Scorecard
 
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.2.0` (2026-09-03)
-- **Last commit**: 2026-10-15
+- **Latest**: `v1.2.1` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,131 · **Forks**: 85 · **Open issues**: 258 · **Contributors**: 22
+- **Stars**: 3,133 · **Forks**: 85 · **Open issues**: 259 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 170 · **Open PRs**: 1 · **Closed issues**: 251 · **Open issues**: 7 · **Commits**: 1471
+- **Releases**: 44 · **Merged PRs**: 173 · **Open PRs**: 0 · **Closed issues**: 254 · **Open issues**: 5 · **Commits**: 1486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 4 | 1 |
-| last60d | 2026-08-20 | 1 | 8 | 1 | 0 | 4 | 18 |
-| 90d | 2026-07-21 | 1 | 8 | 1 | 3 | 5 | 19 |
-| last180d | 2026-04-22 | 3 | 17 | 1 | 9 | 5 | 99 |
-| 360d | 2025-10-24 | 6 | 39 | 1 | 38 | 6 | 174 |
-| last720d | 2024-10-29 | 9 | 48 | 1 | 81 | 7 | 217 |
+| 30d | 2026-09-20 | 1 | 3 | 0 | 2 | 3 | 16 |
+| last60d | 2026-08-21 | 2 | 11 | 0 | 2 | 3 | 33 |
+| 90d | 2026-07-22 | 2 | 11 | 0 | 5 | 4 | 34 |
+| last180d | 2026-04-23 | 4 | 20 | 0 | 11 | 4 | 114 |
+| 360d | 2025-10-25 | 7 | 42 | 0 | 40 | 5 | 189 |
+| last720d | 2024-10-30 | 10 | 51 | 0 | 84 | 5 | 232 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [termscp-v1.2.0-aarch64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-aarch64-apple-darwin.tar.gz) | 17.8 MiB | `native/darwin/arm64` |
-| [termscp-v1.2.0-aarch64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-aarch64-pc-windows-msvc.zip) | 18.2 MiB | `native/win/arm64` |
-| [termscp-v1.2.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-aarch64-unknown-linux-musl.tar.gz) | 23.9 MiB | `native/linux/arm64/musl` |
-| [termscp-v1.2.0-x86_64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-x86_64-apple-darwin.tar.gz) | 16.9 MiB | `native/darwin/x64` |
-| [termscp-v1.2.0-x86_64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-x86_64-pc-windows-msvc.zip) | 19.2 MiB | `native/win/x64` |
-| [termscp-v1.2.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp-v1.2.0-x86_64-unknown-linux-musl.tar.gz) | 25.0 MiB | `native/linux/x64/musl` |
-| [termscp.1.2.0.nupkg](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp.1.2.0.nupkg) | 4.0 KiB | `other` |
-| [termscp_1.2.0-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp_1.2.0-1_amd64.deb) | 16.2 MiB | `runtime/deb/amd64` |
-| [termscp_1.2.0-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.0/termscp_1.2.0-1_arm64.deb) | 15.0 MiB | `runtime/deb/arm64` |
+| [termscp-v1.2.1-aarch64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-apple-darwin.tar.gz) | 17.1 MiB | `native/darwin/arm64` |
+| [termscp-v1.2.1-aarch64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-pc-windows-msvc.zip) | 17.6 MiB | `native/win/arm64` |
+| [termscp-v1.2.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-unknown-linux-musl.tar.gz) | 23.0 MiB | `native/linux/arm64/musl` |
+| [termscp-v1.2.1-x86_64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [termscp-v1.2.1-x86_64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-pc-windows-msvc.zip) | 18.7 MiB | `native/win/x64` |
+| [termscp-v1.2.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-unknown-linux-musl.tar.gz) | 24.1 MiB | `native/linux/x64/musl` |
+| [termscp.1.2.1.nupkg](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp.1.2.1.nupkg) | 4.0 KiB | `other` |
+| [termscp_1.2.1-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
+| [termscp_1.2.1-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:18:09Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:29:23Z._
