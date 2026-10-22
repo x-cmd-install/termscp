@@ -31,7 +31,7 @@ x install termscp
 评分最低的几项:
 
 - **Security-Policy** (4/10) — security policy file detected
-- **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/19 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install termscp
 
 ## 流行度
 
-- **Star**: 3,136 · **Fork**: 85 · **开放 issue**: 259 · **贡献者**: 23
+- **Star**: 3,135 · **Fork**: 85 · **开放 issue**: 259 · **贡献者**: 23
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install termscp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 3 | 0 | 2 | 3 | 16 |
-| last60d | 2026-08-22 | 2 | 11 | 0 | 2 | 3 | 33 |
-| 90d | 2026-07-23 | 2 | 11 | 0 | 5 | 4 | 34 |
-| last180d | 2026-04-24 | 4 | 20 | 0 | 11 | 4 | 114 |
-| 360d | 2025-10-26 | 7 | 42 | 0 | 40 | 5 | 189 |
-| last720d | 2024-10-31 | 10 | 51 | 0 | 84 | 5 | 232 |
+| 30d | 2026-09-22 | 1 | 3 | 0 | 2 | 3 | 16 |
+| last60d | 2026-08-23 | 2 | 11 | 0 | 2 | 3 | 33 |
+| 90d | 2026-07-24 | 2 | 11 | 0 | 5 | 4 | 34 |
+| last180d | 2026-04-25 | 4 | 20 | 0 | 11 | 4 | 114 |
+| 360d | 2025-10-27 | 7 | 42 | 0 | 40 | 5 | 189 |
+| last720d | 2024-11-01 | 10 | 51 | 0 | 82 | 5 | 232 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:23:17Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:19:49Z._
