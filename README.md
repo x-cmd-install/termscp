@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,135 · **Forks**: 85 · **Open issues**: 259 · **Contributors**: 23
+- **Stars**: 3,137 · **Forks**: 86 · **Open issues**: 259 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 0 | 2 | 3 | 16 |
-| last60d | 2026-08-23 | 2 | 11 | 0 | 2 | 3 | 33 |
-| 90d | 2026-07-24 | 2 | 11 | 0 | 5 | 4 | 34 |
-| last180d | 2026-04-25 | 4 | 20 | 0 | 11 | 4 | 114 |
-| 360d | 2025-10-27 | 7 | 42 | 0 | 40 | 5 | 189 |
-| last720d | 2024-11-01 | 10 | 51 | 0 | 82 | 5 | 232 |
+| 30d | 2026-09-23 | 1 | 3 | 0 | 2 | 3 | 16 |
+| last60d | 2026-08-24 | 2 | 11 | 0 | 2 | 3 | 33 |
+| 90d | 2026-07-25 | 2 | 11 | 0 | 5 | 4 | 34 |
+| last180d | 2026-04-26 | 4 | 20 | 0 | 11 | 4 | 114 |
+| 360d | 2025-10-28 | 7 | 42 | 0 | 39 | 5 | 189 |
+| last720d | 2024-11-02 | 10 | 51 | 0 | 82 | 5 | 232 |
 
 ## Release assets
 
@@ -79,6 +79,17 @@ Lowest-scoring checks:
 | [termscp_1.2.1-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
 | [termscp_1.2.1-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
 
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.2.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.2.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `termscp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:19:49Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:21:39Z._
