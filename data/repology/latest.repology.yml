@@ -1,29 +1,3 @@
-- repo: homebrew
-  srcname: termscp
-  visiblename: termscp
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Feature rich terminal file transfer and explorer
-- repo: chocolatey
-  binname: termscp
-  visiblename: termSCP
-  version: 1.2.0
-  origversion: null
-  status: outdated
-  summary: A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/Kube/WebDAV/S3
-- repo: pkgsrc_2026_2
-  srcname: net/termscp
-  binname: termscp
-  visiblename: net/termscp
-  version: 1.0.0
-  origversion: null
-  status: outdated
-  summary: Feature rich TUI file transfer and explorer
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: arch
   subrepo: extra
   srcname: termscp
@@ -35,6 +9,13 @@
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
     - MIT
+- repo: chocolatey
+  binname: termscp
+  visiblename: termSCP
+  version: 1.2.0
+  origversion: null
+  status: outdated
+  summary: A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/Kube/WebDAV/S3
 - repo: freebsd
   srcname: ftp/termscp
   binname: termscp
@@ -54,13 +35,20 @@
   origversion: null
   status: newest
   summary: Feature rich terminal file transfer and explorer
+- repo: homebrew
+  srcname: termscp
+  visiblename: termscp
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Feature rich terminal file transfer and explorer
 - repo: macports
   srcname: sysutils/termscp
   binname: termscp
   visiblename: termscp
-  version: 1.2.0
+  version: 1.2.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A feature rich terminal file transfer
   maintainers:
     - sikmir@github
@@ -198,6 +186,18 @@
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
     - MIT
+- repo: pkgsrc_2026_2
+  srcname: net/termscp
+  binname: termscp
+  visiblename: net/termscp
+  version: 1.0.0
+  origversion: null
+  status: outdated
+  summary: Feature rich TUI file transfer and explorer
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: pkgsrc_2026_3
   srcname: net/termscp
   binname: termscp
