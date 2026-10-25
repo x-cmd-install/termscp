@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,137 · **Forks**: 86 · **Open issues**: 260 · **Contributors**: 23
+- **Stars**: 3,137 · **Forks**: 87 · **Open issues**: 260 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 173 · **Open PRs**: 0 · **Closed issues**: 254 · **Open issues**: 6 · **Commits**: 1486
+- **Releases**: 44 · **Merged PRs**: 173 · **Open PRs**: 1 · **Closed issues**: 254 · **Open issues**: 6 · **Commits**: 1486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 3 | 0 | 2 | 4 | 16 |
-| last60d | 2026-08-25 | 2 | 11 | 0 | 2 | 4 | 33 |
-| 90d | 2026-07-26 | 2 | 11 | 0 | 5 | 5 | 34 |
-| last180d | 2026-04-27 | 4 | 20 | 0 | 11 | 5 | 114 |
-| 360d | 2025-10-29 | 7 | 42 | 0 | 39 | 6 | 189 |
-| last720d | 2024-11-03 | 10 | 51 | 0 | 82 | 6 | 232 |
+| 30d | 2026-09-25 | 1 | 3 | 1 | 2 | 4 | 16 |
+| last60d | 2026-08-26 | 2 | 11 | 1 | 2 | 4 | 24 |
+| 90d | 2026-07-27 | 2 | 11 | 1 | 5 | 5 | 33 |
+| last180d | 2026-04-28 | 4 | 20 | 1 | 11 | 5 | 114 |
+| 360d | 2025-10-30 | 7 | 42 | 1 | 39 | 6 | 189 |
+| last720d | 2024-11-04 | 10 | 51 | 1 | 82 | 6 | 232 |
 
 ## Release assets
 
@@ -81,12 +81,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **6** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.2.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.2.1` | ✅ latest |
 | Nix unstable | `1.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
 
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:12:46Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:09:54Z._
