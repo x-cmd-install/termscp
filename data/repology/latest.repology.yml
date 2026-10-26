@@ -12,9 +12,9 @@
 - repo: chocolatey
   binname: termscp
   visiblename: termSCP
-  version: 1.2.0
+  version: 1.2.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/Kube/WebDAV/S3
 - repo: freebsd
   srcname: ftp/termscp
