@@ -56,28 +56,6 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: termscp
-  binname: termscp
-  visiblename: termscp
-  version: 1.2.0
-  origversion: 1.2.0-1
-  status: outdated
-  summary: A feature rich terminal UI file transfer and explorer
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: termscp
-  binname: termscp
-  visiblename: termscp
-  version: 1.2.0
-  origversion: 1.2.0-1
-  status: outdated
-  summary: A feature rich terminal UI file transfer and explorer
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: termscp
