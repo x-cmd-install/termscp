@@ -5,7 +5,7 @@
   visiblename: termscp
   version: 1.2.1
   origversion: 1.2.1-1
-  status: newest
+  status: outdated
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
     - MIT
@@ -14,7 +14,7 @@
   visiblename: termSCP
   version: 1.2.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/Kube/WebDAV/S3
 - repo: freebsd
   srcname: ftp/termscp
@@ -31,7 +31,7 @@
 - repo: homebrew
   srcname: termscp
   visiblename: termscp
-  version: 1.2.1
+  version: 1.2.2
   origversion: null
   status: newest
   summary: Feature rich terminal file transfer and explorer
@@ -48,7 +48,7 @@
   visiblename: termscp
   version: 1.2.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A feature rich terminal file transfer
   maintainers:
     - sikmir@github
@@ -63,7 +63,7 @@
   visiblename: termscp
   version: 1.2.1
   origversion: 1.2.1-1
-  status: newest
+  status: outdated
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
     - MIT
@@ -160,7 +160,7 @@
   visiblename: termscp
   version: 1.2.1
   origversion: 1.2.1-1
-  status: newest
+  status: outdated
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
     - MIT
@@ -204,7 +204,7 @@
   subrepo: main
   binname: termscp
   visiblename: termscp
-  version: 1.2.1
+  version: 1.2.2
   origversion: null
   status: newest
   licenses:
