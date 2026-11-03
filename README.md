@@ -42,51 +42,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.2.1` (2026-10-19)
-- **Last commit**: 2026-10-31
+- **Latest**: `v1.2.2` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,147 · **Forks**: 86 · **Open issues**: 263 · **Contributors**: 24
+- **Stars**: 3,146 · **Forks**: 86 · **Open issues**: 263 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 174 · **Open PRs**: 0 · **Closed issues**: 255 · **Open issues**: 8 · **Commits**: 1489
+- **Releases**: 45 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 256 · **Open issues**: 7 · **Commits**: 1492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 4 | 0 | 3 | 4 | 19 |
-| last60d | 2026-09-03 | 2 | 5 | 0 | 3 | 6 | 20 |
-| 90d | 2026-08-04 | 2 | 12 | 0 | 6 | 7 | 36 |
-| last180d | 2026-05-06 | 4 | 21 | 0 | 11 | 7 | 117 |
-| 360d | 2025-11-07 | 7 | 43 | 0 | 40 | 8 | 181 |
-| last720d | 2024-11-12 | 10 | 52 | 0 | 82 | 8 | 235 |
+| 30d | 2026-10-04 | 2 | 5 | 0 | 4 | 3 | 22 |
+| last60d | 2026-09-04 | 2 | 6 | 0 | 4 | 5 | 23 |
+| 90d | 2026-08-05 | 3 | 13 | 0 | 7 | 6 | 39 |
+| last180d | 2026-05-07 | 5 | 22 | 0 | 11 | 6 | 120 |
+| 360d | 2025-11-08 | 8 | 44 | 0 | 41 | 7 | 184 |
+| last720d | 2024-11-13 | 11 | 53 | 0 | 80 | 7 | 237 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [termscp-v1.2.1-aarch64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-apple-darwin.tar.gz) | 17.1 MiB | `native/darwin/arm64` |
-| [termscp-v1.2.1-aarch64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-pc-windows-msvc.zip) | 17.6 MiB | `native/win/arm64` |
-| [termscp-v1.2.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-aarch64-unknown-linux-musl.tar.gz) | 23.0 MiB | `native/linux/arm64/musl` |
-| [termscp-v1.2.1-x86_64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
-| [termscp-v1.2.1-x86_64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-pc-windows-msvc.zip) | 18.7 MiB | `native/win/x64` |
-| [termscp-v1.2.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp-v1.2.1-x86_64-unknown-linux-musl.tar.gz) | 24.1 MiB | `native/linux/x64/musl` |
-| [termscp.1.2.1.nupkg](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp.1.2.1.nupkg) | 4.0 KiB | `other` |
-| [termscp_1.2.1-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
-| [termscp_1.2.1-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.1/termscp_1.2.1-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
+| [termscp-v1.2.2-aarch64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-aarch64-apple-darwin.tar.gz) | 17.1 MiB | `native/darwin/arm64` |
+| [termscp-v1.2.2-aarch64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-aarch64-pc-windows-msvc.zip) | 17.6 MiB | `native/win/arm64` |
+| [termscp-v1.2.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-aarch64-unknown-linux-musl.tar.gz) | 23.0 MiB | `native/linux/arm64/musl` |
+| [termscp-v1.2.2-x86_64-apple-darwin.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [termscp-v1.2.2-x86_64-pc-windows-msvc.zip](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-x86_64-pc-windows-msvc.zip) | 18.7 MiB | `native/win/x64` |
+| [termscp-v1.2.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp-v1.2.2-x86_64-unknown-linux-musl.tar.gz) | 24.1 MiB | `native/linux/x64/musl` |
+| [termscp.1.2.2.nupkg](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp.1.2.2.nupkg) | 4.0 KiB | `other` |
+| [termscp_1.2.2-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp_1.2.2-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
+| [termscp_1.2.2-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp_1.2.2-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/termscp). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/termscp). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.2.1` | ✅ latest |
-| Homebrew | `1.2.1` | ✅ latest |
+| Arch | `1.2.1` | ⚠️ outdated |
+| Homebrew | `1.2.2` | ✅ latest |
 | Nix unstable | `1.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
 
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:44:58Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:28:20Z._
