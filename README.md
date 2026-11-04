@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,146 · **Forks**: 86 · **Open issues**: 263 · **Contributors**: 24
+- **Stars**: 3,145 · **Forks**: 86 · **Open issues**: 263 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 5 | 0 | 4 | 3 | 22 |
-| last60d | 2026-09-04 | 2 | 6 | 0 | 4 | 5 | 23 |
-| 90d | 2026-08-05 | 3 | 13 | 0 | 7 | 6 | 39 |
-| last180d | 2026-05-07 | 5 | 22 | 0 | 11 | 6 | 120 |
-| 360d | 2025-11-08 | 8 | 44 | 0 | 41 | 7 | 184 |
-| last720d | 2024-11-13 | 11 | 53 | 0 | 80 | 7 | 237 |
+| 30d | 2026-10-05 | 2 | 5 | 0 | 4 | 3 | 22 |
+| last60d | 2026-09-05 | 2 | 6 | 0 | 4 | 5 | 23 |
+| 90d | 2026-08-06 | 3 | 13 | 0 | 7 | 6 | 39 |
+| last180d | 2026-05-08 | 5 | 22 | 0 | 11 | 6 | 120 |
+| 360d | 2025-11-09 | 8 | 42 | 0 | 41 | 7 | 184 |
+| last720d | 2024-11-14 | 10 | 53 | 0 | 80 | 7 | 235 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/termscp). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/termscp). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:28:20Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:57:44Z._
