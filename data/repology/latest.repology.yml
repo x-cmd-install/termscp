@@ -1,3 +1,26 @@
+- repo: nix_stable_24_11
+  srcname: termscp
+  visiblename: termscp
+  version: 0.16.1
+  origversion: null
+  status: outdated
+  summary: Feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: termscp
+  visiblename: termscp
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: Feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+  maintainers:
+    - mail@fabian-affolter.ch
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: termscp
@@ -5,6 +28,17 @@
   visiblename: termscp
   version: 1.2.1
   origversion: 1.2.1-1
+  status: outdated
+  summary: A feature rich terminal UI file transfer and explorer
+  licenses:
+    - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: termscp
+  binname: termscp
+  visiblename: termscp
+  version: 1.2.1
+  origversion: 1.2.1-2
   status: outdated
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
@@ -76,29 +110,6 @@
   summary: A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
   maintainers:
     - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: termscp
-  visiblename: termscp
-  version: 0.16.1
-  origversion: null
-  status: outdated
-  summary: Feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: termscp
-  visiblename: termscp
-  version: 0.17.0
-  origversion: null
-  status: outdated
-  summary: Feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-  maintainers:
-    - mail@fabian-affolter.ch
-    - gutyina.gergo.2@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_25_11
