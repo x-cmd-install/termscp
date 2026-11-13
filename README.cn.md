@@ -48,7 +48,7 @@ x install termscp
 
 ## 流行度
 
-- **Star**: 3,155 · **Fork**: 88 · **开放 issue**: 264 · **贡献者**: 24
+- **Star**: 3,157 · **Fork**: 89 · **开放 issue**: 264 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install termscp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 5 | 0 | 4 | 3 | 21 |
-| last60d | 2026-09-13 | 2 | 6 | 0 | 4 | 6 | 23 |
-| 90d | 2026-08-14 | 3 | 13 | 0 | 5 | 6 | 39 |
-| last180d | 2026-05-16 | 5 | 22 | 0 | 11 | 7 | 120 |
-| 360d | 2025-11-17 | 7 | 41 | 0 | 36 | 8 | 184 |
-| last720d | 2024-11-22 | 10 | 53 | 0 | 78 | 8 | 235 |
+| 30d | 2026-10-14 | 2 | 5 | 0 | 4 | 3 | 21 |
+| last60d | 2026-09-14 | 2 | 6 | 0 | 4 | 6 | 23 |
+| 90d | 2026-08-15 | 3 | 13 | 0 | 5 | 6 | 39 |
+| last180d | 2026-05-17 | 5 | 22 | 0 | 11 | 7 | 120 |
+| 360d | 2025-11-18 | 7 | 41 | 0 | 36 | 8 | 184 |
+| last720d | 2024-11-23 | 10 | 53 | 0 | 78 | 8 | 235 |
 
 ## Release 资产
 
@@ -81,13 +81,13 @@ x install termscp
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/termscp) 上共有 **21** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/termscp) 上共有 **21** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.2.1` | ⚠️ outdated |
 | Homebrew | `1.2.2` | ✅ latest |
-| Nix unstable | `1.2.0` | ⚠️ outdated |
+| Nix unstable | `1.2.2` | ✅ latest |
 | openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -99,4 +99,4 @@ termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T08:10:42Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T07:35:00Z._
