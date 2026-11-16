@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,159 · **Forks**: 90 · **Open issues**: 264 · **Contributors**: 24
+- **Stars**: 3,160 · **Forks**: 90 · **Open issues**: 264 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 256 · **Open issues**: 8 · **Commits**: 1492
+- **Releases**: 45 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 257 · **Open issues**: 7 · **Commits**: 1492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 5 | 0 | 4 | 3 | 21 |
-| last60d | 2026-09-16 | 2 | 5 | 0 | 4 | 6 | 23 |
-| 90d | 2026-08-17 | 3 | 13 | 0 | 5 | 6 | 39 |
-| last180d | 2026-05-19 | 5 | 22 | 0 | 11 | 7 | 120 |
-| 360d | 2025-11-20 | 7 | 41 | 0 | 36 | 8 | 184 |
-| last720d | 2024-11-25 | 10 | 53 | 0 | 77 | 8 | 235 |
+| 30d | 2026-10-17 | 2 | 5 | 0 | 5 | 2 | 6 |
+| last60d | 2026-09-17 | 2 | 5 | 0 | 5 | 5 | 22 |
+| 90d | 2026-08-18 | 3 | 13 | 0 | 6 | 5 | 39 |
+| last180d | 2026-05-20 | 5 | 22 | 0 | 12 | 6 | 120 |
+| 360d | 2025-11-21 | 7 | 41 | 0 | 37 | 7 | 184 |
+| last720d | 2024-11-26 | 10 | 53 | 0 | 78 | 7 | 235 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **4** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:24:05Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:36:13Z._
