@@ -73,7 +73,7 @@
   binname: termscp
   visiblename: termscp
   version: 1.2.1
-  origversion: 1.2.1-1
+  origversion: 1.2.1-2
   status: outdated
   summary: A feature rich terminal UI file transfer and explorer
   licenses:
