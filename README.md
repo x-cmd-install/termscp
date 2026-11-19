@@ -31,7 +31,7 @@ Overall score: **5.5 / 10**
 Lowest-scoring checks:
 
 - **Security-Policy** (4/10) — security policy file detected
-- **Code-Review** (0/10) — Found 1/19 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/21 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,161 · **Forks**: 90 · **Open issues**: 264 · **Contributors**: 24
+- **Stars**: 3,162 · **Forks**: 90 · **Open issues**: 265 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 257 · **Open issues**: 7 · **Commits**: 1492
+- **Releases**: 45 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 257 · **Open issues**: 8 · **Commits**: 1492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 4 | 0 | 4 | 2 | 6 |
-| last60d | 2026-09-18 | 2 | 5 | 0 | 5 | 5 | 22 |
-| 90d | 2026-08-19 | 3 | 13 | 0 | 5 | 5 | 39 |
-| last180d | 2026-05-21 | 5 | 22 | 0 | 12 | 6 | 120 |
-| 360d | 2025-11-22 | 7 | 41 | 0 | 37 | 7 | 184 |
-| last720d | 2024-11-27 | 10 | 53 | 0 | 78 | 7 | 235 |
+| 30d | 2026-10-20 | 1 | 2 | 0 | 3 | 3 | 6 |
+| last60d | 2026-09-20 | 2 | 5 | 0 | 5 | 6 | 22 |
+| 90d | 2026-08-21 | 3 | 13 | 0 | 5 | 6 | 39 |
+| last180d | 2026-05-23 | 5 | 22 | 0 | 12 | 7 | 120 |
+| 360d | 2025-11-24 | 7 | 41 | 0 | 37 | 8 | 184 |
+| last720d | 2024-11-29 | 10 | 53 | 0 | 77 | 8 | 235 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/termscp). **6** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:20:50Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:58:39Z._
