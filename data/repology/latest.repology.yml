@@ -214,9 +214,9 @@
   srcname: net/termscp
   binname: termscp
   visiblename: net/termscp
-  version: 1.2.0
+  version: 1.2.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Feature rich TUI file transfer and explorer
   maintainers:
     - pkgsrc-users@netbsd.org
