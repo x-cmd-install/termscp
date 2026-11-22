@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 2 | 0 | 3 | 3 | 0 |
-| last60d | 2026-09-22 | 2 | 5 | 0 | 5 | 6 | 0 |
-| 90d | 2026-08-23 | 3 | 13 | 0 | 5 | 6 | 0 |
-| last180d | 2026-05-25 | 5 | 22 | 0 | 12 | 7 | 0 |
-| 360d | 2025-11-26 | 7 | 41 | 0 | 37 | 8 | 0 |
-| last720d | 2024-12-01 | 10 | 53 | 0 | 76 | 8 | 235 |
+| 30d | 2026-10-23 | 1 | 2 | 0 | 3 | 2 | 6 |
+| last60d | 2026-09-23 | 2 | 5 | 0 | 5 | 6 | 22 |
+| 90d | 2026-08-24 | 3 | 13 | 0 | 5 | 6 | 39 |
+| last180d | 2026-05-26 | 5 | 22 | 0 | 11 | 7 | 120 |
+| 360d | 2025-11-27 | 7 | 41 | 0 | 37 | 8 | 184 |
+| last720d | 2024-12-02 | 10 | 53 | 0 | 75 | 8 | 235 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for termscp lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:24:46Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:19:24Z._
