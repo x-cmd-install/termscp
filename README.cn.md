@@ -30,8 +30,8 @@ x install termscp
 
 评分最低的几项:
 
-- **Security-Policy** (4/10) — security policy file detected
 - **Code-Review** (0/10) — Found 2/21 approved changesets -- score normalized to 0
+- **Security-Policy** (4/10) — security policy file detected
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install termscp
 
 ## 流行度
 
-- **Star**: 3,167 · **Fork**: 90 · **开放 issue**: 267 · **贡献者**: 24
+- **Star**: 3,169 · **Fork**: 90 · **开放 issue**: 267 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install termscp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 0 | 1 | 4 | 5 |
-| last60d | 2026-09-25 | 2 | 5 | 0 | 5 | 8 | 22 |
-| 90d | 2026-08-26 | 3 | 13 | 0 | 5 | 8 | 34 |
-| last180d | 2026-05-28 | 5 | 22 | 0 | 11 | 9 | 120 |
-| 360d | 2025-11-29 | 7 | 41 | 0 | 37 | 10 | 182 |
-| last720d | 2024-12-04 | 10 | 53 | 0 | 75 | 10 | 235 |
+| 30d | 2026-10-26 | 1 | 1 | 0 | 1 | 4 | 5 |
+| last60d | 2026-09-26 | 2 | 5 | 0 | 5 | 8 | 22 |
+| 90d | 2026-08-27 | 3 | 13 | 0 | 5 | 8 | 34 |
+| last180d | 2026-05-29 | 5 | 22 | 0 | 11 | 9 | 120 |
+| 360d | 2025-11-30 | 7 | 41 | 0 | 37 | 10 | 182 |
+| last720d | 2024-12-05 | 10 | 53 | 0 | 75 | 10 | 235 |
 
 ## Release 资产
 
@@ -79,17 +79,6 @@ x install termscp
 | [termscp_1.2.2-1_amd64.deb](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp_1.2.2-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
 | [termscp_1.2.2-1_arm64.deb](https://github.com/veeso/termscp/releases/download/v1.2.2/termscp_1.2.2-1_arm64.deb) | 14.7 MiB | `runtime/deb/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/termscp) 上共有 **21** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.2.1` | ⚠️ outdated |
-| Homebrew | `1.2.2` | ✅ latest |
-| Nix unstable | `1.2.2` | ✅ latest |
-| openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `termscp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +88,4 @@ termscp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:42:34Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:21:48Z._
